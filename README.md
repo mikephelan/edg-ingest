@@ -1,6 +1,6 @@
 # Capabilities Update
 
-Web service to update model layer of Capability Areas features of MII, including Technical Capabilities Areas (TCA) and Domain Capabilities Areas (DCA)
+Web service to update model layer of capabilities, including technical capabilities and domain capabilities
 
 ## Getting Started
 
